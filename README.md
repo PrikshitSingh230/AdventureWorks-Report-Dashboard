@@ -77,3 +77,4 @@ It contains realistic data on **sales, customers, products, employees, and regio
 Overall this dashboard transforms operational data into **strategic intelligence**, helps in improving **profitability, efficiency, and customer satisfaction** across global operations.  
 
 ### **DashBoard PDF**
+https://github.com/PrikshitSingh230/AdventureWorks-Report-Dashboard/blob/main/AdventureWorks%20Repo.pdf
