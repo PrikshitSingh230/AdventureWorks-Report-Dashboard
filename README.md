@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis Dashboard  
+# Product Sales & Customer Analysis Dashboard  
 
 ### Interactive Power BI Dashboard for Sales, Product, and Customer Insights  
 
